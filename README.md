@@ -1,0 +1,1 @@
+# Pratikum5-1-2.py
